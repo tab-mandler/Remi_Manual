@@ -19,4 +19,4 @@ Gemfile.lock
 
 # need to ignore prettierrc.json, and txt files
 .prettierrc.json
-.txt
+**.txt
